@@ -20,3 +20,8 @@ function powersOfTwo(n) {
   //   Array.from Method#3
   //   return Array.from({length: n+1}, (v, i) => 2**i)
 }
+
+// All Star Code Challenge
+function strCount(str, letter) {
+  return str.split('').filter((l) => l === letter).length;
+}
