@@ -33,3 +33,8 @@ var humanYearsCatYearsDogYears = function (y) {
   if (y == 2) return [2, 24, 24];
   return [y, (y - 2) * 4 + 24, (y - 2) * 5 + 24];
 };
+
+// 5. Expressions Matter
+function expressionMatter(a, b, c) {
+  return Math.max(a * (b + c), a * b * c, a + b * c, (a + b) * c, a + b + c);
+}
