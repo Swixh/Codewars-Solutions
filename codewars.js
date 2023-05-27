@@ -38,3 +38,12 @@ var humanYearsCatYearsDogYears = function (y) {
 function expressionMatter(a, b, c) {
   return Math.max(a * (b + c), a * b * c, a + b * c, (a + b) * c, a + b + c);
 }
+
+// 6. What is between?
+function between(a, b) {
+  let arr = [];
+  for (let i = a; i <= b; i++) {
+    arr.push(i);
+  }
+  return arr;
+}

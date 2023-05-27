@@ -7,3 +7,4 @@
 3. All Star Code Challenge [https://www.codewars.com/kata/5865918c6b569962950002a1]
 4. Cat years, Dog years [https://www.codewars.com/kata/5a6663e9fd56cb5ab800008b]
 5. Expressions Matter [https://www.codewars.com/kata/5ae62fcf252e66d44d00008e]
+6. What is between? [https://www.codewars.com/kata/55ecd718f46fba02e5000029]
