@@ -8,3 +8,4 @@
 4. Cat years, Dog years [https://www.codewars.com/kata/5a6663e9fd56cb5ab800008b]
 5. Expressions Matter [https://www.codewars.com/kata/5ae62fcf252e66d44d00008e]
 6. What is between? [https://www.codewars.com/kata/55ecd718f46fba02e5000029]
+7. Filter out the geese [https://www.codewars.com/kata/57ee4a67108d3fd9eb0000e7]
