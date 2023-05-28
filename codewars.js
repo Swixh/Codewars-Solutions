@@ -47,3 +47,26 @@ function between(a, b) {
   }
   return arr;
 }
+
+// 7. Filter out the geese
+function gooseFilter(birds) {
+  var geese = ['African', 'Roman Tufted', 'Toulouse', 'Pilgrim', 'Steinbacher'];
+
+  return birds.filter((bird) => geese.find((el) => el === bird) === undefined);
+}
+
+// 8. Reverse List Order
+
+function reverseList(list) {
+  //   Method 1
+  for (let i = list.length - 1, count = 0; i >= list.length / 2; i--) {
+    let tmp = list[count];
+    list[count] = list[i];
+    list[i] = tmp;
+    count++;
+  }
+  return list;
+
+  //   Method 2
+  //   return list.reverse()
+}
