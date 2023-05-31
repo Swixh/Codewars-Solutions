@@ -10,3 +10,4 @@
 6. What is between? [https://www.codewars.com/kata/55ecd718f46fba02e5000029]
 7. Filter out the geese [https://www.codewars.com/kata/57ee4a67108d3fd9eb0000e7]
 8. Reverse List Order [https://www.codewars.com/kata/53da6d8d112bd1a0dc00008b]
+9. [Find Multiples of a Number](https://www.codewars.com/kata/58ca658cc0d6401f2700045f)
