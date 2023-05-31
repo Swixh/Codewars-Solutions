@@ -70,3 +70,13 @@ function reverseList(list) {
   //   Method 2
   //   return list.reverse()
 }
+
+// 9. Find Multiples of a Number
+
+function findMultiples(integer, limit) {
+  let arr = [];
+  for (let i = integer; i <= limit; i += integer) {
+    arr.push(i);
+  }
+  return arr;
+}
