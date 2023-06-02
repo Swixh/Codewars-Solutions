@@ -11,3 +11,5 @@
 7. [Filter out the geese](https://www.codewars.com/kata/57ee4a67108d3fd9eb0000e7)
 8. [Reverse List Order](https://www.codewars.com/kata/53da6d8d112bd1a0dc00008b)
 9. [Find Multiples of a Number](https://www.codewars.com/kata/58ca658cc0d6401f2700045f)
+10. [Sum The Strings](https://www.codewars.com/kata/5966e33c4e686b508700002d)
+11. [Is it a palindrome?](https://www.codewars.com/kata/57a1fd2ce298a731b20006a4)

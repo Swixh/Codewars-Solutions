@@ -80,3 +80,19 @@ function findMultiples(integer, limit) {
   }
   return arr;
 }
+
+// 10. Sum the Strings
+
+function sumStr(a, b) {
+  if (a === '' && b === '') return '0';
+  if (a === '' || b === '') return a || b;
+  return +a + +b + '';
+}
+
+// 11. Is it a palindrome?
+
+function isPalindrome(x) {
+  return x.toLowerCase() == x.split('').reverse().join('').toLowerCase()
+    ? true
+    : false;
+}
