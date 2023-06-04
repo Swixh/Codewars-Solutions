@@ -96,3 +96,17 @@ function isPalindrome(x) {
     ? true
     : false;
 }
+
+// 12. Merge two sorted arrays
+
+function mergeArrays(arr1, arr2) {
+  let arr = [];
+  for (let i = 0; i < arr1.length; i++) {
+    arr.push(arr1[i]);
+  }
+  for (let j = 0; j < arr2.length; j++) {
+    if (arr.includes(arr2[j])) continue;
+    arr.push(arr2[j]);
+  }
+  return arr.sort((a, b) => a - b);
+}

@@ -13,3 +13,4 @@
 9. [Find Multiples of a Number](https://www.codewars.com/kata/58ca658cc0d6401f2700045f)
 10. [Sum The Strings](https://www.codewars.com/kata/5966e33c4e686b508700002d)
 11. [Is it a palindrome?](https://www.codewars.com/kata/57a1fd2ce298a731b20006a4)
+12. [Merge two sorted arrays](https://www.codewars.com/kata/5899642f6e1b25935d000161)
