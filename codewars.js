@@ -110,3 +110,25 @@ function mergeArrays(arr1, arr2) {
   }
   return arr.sort((a, b) => a - b);
 }
+
+// 13. A wolf in sheep's clothing
+
+function warnTheSheep(queue) {
+  if (queue[queue.length - 1] === 'wolf')
+    return 'Pls go away and stop eating my sheep';
+
+  //   Create a count variable to count how many times it take to find a wolf
+  //   then break for loop
+  //   return count with the string
+  //   let count = 0;
+  //   for (let i = queue.length - 1; i >= 0; i--) {
+  //     if (queue[i] === 'wolf') break
+  //     count++;
+  //   }
+  //   return `Oi! Sheep number ${count}! You are about to be eaten by a wolf!`
+
+  //  Get Length of array then subtract the 1 from it and subtract again from the index of the wolf.
+  return `Oi! Sheep number ${
+    queue.length - 1 - queue.indexOf('wolf')
+  }! You are about to be eaten by a wolf!`;
+}
