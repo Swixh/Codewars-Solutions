@@ -132,3 +132,9 @@ function warnTheSheep(queue) {
     queue.length - 1 - queue.indexOf('wolf')
   }! You are about to be eaten by a wolf!`;
 }
+
+// 14. What's the real floor?
+
+function getRealFloor(n) {
+  return n > 13 ? n - 2 : n <= 0 ? n : n - 1;
+}
