@@ -22,6 +22,7 @@ function powersOfTwo(n) {
 }
 
 // 3. All Star Code Challenge
+
 function strCount(str, letter) {
   return str.split('').filter((l) => l === letter).length;
 }
@@ -35,11 +36,13 @@ var humanYearsCatYearsDogYears = function (y) {
 };
 
 // 5. Expressions Matter
+
 function expressionMatter(a, b, c) {
   return Math.max(a * (b + c), a * b * c, a + b * c, (a + b) * c, a + b + c);
 }
 
 // 6. What is between?
+
 function between(a, b) {
   let arr = [];
   for (let i = a; i <= b; i++) {
@@ -49,6 +52,7 @@ function between(a, b) {
 }
 
 // 7. Filter out the geese
+
 function gooseFilter(birds) {
   var geese = ['African', 'Roman Tufted', 'Toulouse', 'Pilgrim', 'Steinbacher'];
 
