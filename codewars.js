@@ -142,3 +142,16 @@ function warnTheSheep(queue) {
 function getRealFloor(n) {
   return n > 13 ? n - 2 : n <= 0 ? n : n - 1;
 }
+
+// 15. I love you, a little , a lot, passionately ... not at all
+
+function howMuchILoveYou(nbPetals) {
+  return [
+    'I love you',
+    'a little',
+    'a lot',
+    'passionately',
+    'madly',
+    'not at all',
+  ][(nbPetals - 1) % 6];
+}
