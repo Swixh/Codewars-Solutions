@@ -155,3 +155,9 @@ function howMuchILoveYou(nbPetals) {
     'not at all',
   ][(nbPetals - 1) % 6];
 }
+
+// 16. Find number which are divisable by the given number
+
+function divisibleBy(numbers, divisor) {
+  return numbers.filter((n) => n % divisor == 0);
+}

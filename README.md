@@ -17,3 +17,4 @@
 13. [A wolf in sheep's clothing](https://www.codewars.com/kata/5c8bfa44b9d1192e1ebd3d15)
 14. [What's the real floor?](https://www.codewars.com/kata/574b3b1599d8f897470018f6)
 15. [I love you, a little , a lot, passionately ... not at all](https://www.codewars.com/kata/57f24e6a18e9fad8eb000296)
+16. [Find numbers which are divisible by given number](https://www.codewars.com/kata/55edaba99da3a9c84000003b)
