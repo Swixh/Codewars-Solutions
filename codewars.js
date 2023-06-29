@@ -170,3 +170,8 @@ function well(x) {
   if (lenArr >= 1) return 'Publish!';
   return 'Fail!';
 }
+// 18. Sum of the lowest two integers
+function sumTwoSmallestNumbers(numbers) {
+  let [a, b] = numbers.sort((a, b) => a - b);
+  return a + b;
+}
