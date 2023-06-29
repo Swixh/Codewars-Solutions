@@ -18,3 +18,4 @@
 14. [What's the real floor?](https://www.codewars.com/kata/574b3b1599d8f897470018f6)
 15. [I love you, a little , a lot, passionately ... not at all](https://www.codewars.com/kata/57f24e6a18e9fad8eb000296)
 16. [Find numbers which are divisible by given number](https://www.codewars.com/kata/55edaba99da3a9c84000003b)
+17. [Well of Ideas - Easy Version](https://www.codewars.com/kata/57f222ce69e09c3630000212)

@@ -161,3 +161,12 @@ function howMuchILoveYou(nbPetals) {
 function divisibleBy(numbers, divisor) {
   return numbers.filter((n) => n % divisor == 0);
 }
+
+// 16. Well of Ideas - Easy Version
+
+function well(x) {
+  const lenArr = x.filter((idea) => idea === 'good').length;
+  if (lenArr > 2) return 'I smell a series!';
+  if (lenArr >= 1) return 'Publish!';
+  return 'Fail!';
+}
