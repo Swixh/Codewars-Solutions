@@ -20,3 +20,4 @@
 16. [Find numbers which are divisible by given number](https://www.codewars.com/kata/55edaba99da3a9c84000003b)
 17. [Well of Ideas - Easy Version](https://www.codewars.com/kata/57f222ce69e09c3630000212)
 18. [Sum of the lowest two integers](https://www.codewars.com/kata/558fc85d8fd1938afb000014)
+19. [Drink About](https://www.codewars.com/kata/56170e844da7c6f647000063)

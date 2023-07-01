@@ -175,3 +175,13 @@ function sumTwoSmallestNumbers(numbers) {
   let [a, b] = numbers.sort((a, b) => a - b);
   return a + b;
 }
+
+// 19. Drink About
+const peopleWithAgeDrink = (old) =>
+  old < 14
+    ? 'drink toddy'
+    : old < 18
+    ? 'drink coke'
+    : old < 21
+    ? 'drink beer'
+    : 'drink whisky';
