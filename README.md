@@ -21,3 +21,4 @@
 17. [Well of Ideas - Easy Version](https://www.codewars.com/kata/57f222ce69e09c3630000212)
 18. [Sum of the lowest two integers](https://www.codewars.com/kata/558fc85d8fd1938afb000014)
 19. [Drink About](https://www.codewars.com/kata/56170e844da7c6f647000063)
+20. [Pluralize](https://www.codewars.com/kata/52ceafd1f235ce81aa00073a)

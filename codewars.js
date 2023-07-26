@@ -185,3 +185,7 @@ const peopleWithAgeDrink = (old) =>
     : old < 21
     ? 'drink beer'
     : 'drink whisky';
+// 20. Plural
+function plural(n) {
+  return n != 1 ? true : false;
+}
